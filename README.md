@@ -3,7 +3,7 @@ LWC Generator is a tool to generate Lightning Web Component (LWC) template for S
 Configure your lwc component settings with inputs and clicks, then press "Download" button to get lwc out of the box component files.
 
 # Live App
-Visit [lwc-generator.herokuapp.com](https://lwc-generator.herokuapp.com/)
+Currently not available until it has Terms of Use ready.
 
 ## How to start?
 
