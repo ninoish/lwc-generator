@@ -2,9 +2,19 @@
 LWC Generator is a tool to generate Lightning Web Component (LWC) template for Salesforce Lightning Platform.
 Configure your lwc component settings with inputs and clicks, then press "Download" button to get lwc out of the box component files.
 
+## What can LWC Generator do?
+- Basic LWC Settings
+- Targets
+- FormFactor (Mobile / Desktop)
+- Files templates (js, js-meta.xml, html, css, svg, jest test) of your choice
+- Target Properties
+- Target sObjects for RecordPage
+- Preview Contents
+- Download LWC as zip
+
+![Entire app](resources/screenshot.png)
 # Live App
 Currently not available until it has Terms of Use ready. Please deploy this repo to your own environment and use with your resonsibility.
-
 ## How to start?
 
 Start simple by running `yarn watch` (or `npm run watch`, if you set up the project with `npm`). This will start the project with a local development server.
