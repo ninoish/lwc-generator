@@ -4,6 +4,7 @@ Configure your lwc component settings with inputs and clicks, then press "Downlo
 
 # [Important!] NOW AVAILABLE with VSCode
 LWC Generator project has been moved to [__LWC Builder__](https://github.com/developerforce/lwc-builder) project. It enables you to configure new LWC on VSCode in the same way as LWC Generator. Download the [VSIX file](https://github.com/developerforce/lwc-builder/tree/main/generated-assets) and install it in your VSCode via Command Palette `Extension: Install VSIX ...` . 
+This repo is no longer maintained. Please use LWC Builder.
 
 ## What can LWC Generator do?
 - Basic LWC Settings
@@ -16,8 +17,7 @@ LWC Generator project has been moved to [__LWC Builder__](https://github.com/dev
 - Download LWC as zip
 
 ![Entire app](resources/screenshot.png)
-# Live App
-Currently not available until it has Terms of Use ready. Please deploy this repo to your own environment and use with your resonsibility.
+
 ## How to start?
 
 Start simple by running `yarn watch` (or `npm run watch`, if you set up the project with `npm`). This will start the project with a local development server.
