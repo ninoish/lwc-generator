@@ -2,6 +2,9 @@
 LWC Generator is a tool to generate Lightning Web Component (LWC) template for Salesforce Lightning Platform.
 Configure your lwc component settings with inputs and clicks, then press "Download" button to get lwc out of the box component files.
 
+# [Important!] NOW AVAILABLE with VSCode
+LWC Generator project has been moved to [__LWC Builder__](https://github.com/developerforce/lwc-builder) project. It enables you to configure new LWC on VSCode in the same way as LWC Generator. Download the [VSIX file](https://github.com/developerforce/lwc-builder/tree/main/generated-assets) and install it in your VSCode via Command Palette `Extension: Install VSIX ...` . 
+
 ## What can LWC Generator do?
 - Basic LWC Settings
 - Targets
